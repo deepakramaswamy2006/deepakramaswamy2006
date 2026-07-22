@@ -1,256 +1,94 @@
-<h1 align="center">Hi 👋, I'm Deepak R</h1>
 
-<h3 align="center">
-AI & Full Stack Developer • MERN • Agentic AI • Building Intelligent Software
-</h3>
+# <div align="center">Hi 👋, I'm Deepak R</div>
 
-<p align="center">
-I enjoy solving real-world problems using AI, Full Stack Development, and Automation.
-Currently focused on Agentic AI, LLM Applications, MERN Stack, and scalable cloud-based systems.
-</p>
+<div align="center">
+
+### AI Engineer • Full Stack Developer • MERN Stack • Agentic AI Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;MERN+Stack;Agentic+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=deepakramaswamy2006&color=blue)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BE in Artificial Intelligence & Machine Learning
-
-🏫 Sri Eshwar College of Engineering
-
-💼 MERN Stack Developer Intern @ EduCentro
-
-🤖 Agentic AI Intern @ Aptitude Guru
-
-🏆 Salesforce Certified Agentforce Specialist
-
-🌱 Currently learning
-
-- Agentic AI
-- LangGraph
-- LangChain
-- System Design
-- AWS
-- Advanced Backend Engineering
-
-💡 Interested in
-
-- Artificial Intelligence
-- Full Stack Development
-- Large Language Models
-- Cloud Computing
-- Open Source
-- Software Engineering
+- 🎓 B.E. Artificial Intelligence & Machine Learning
+- 💼 MERN Stack Developer Intern @ EduCentro
+- 🤖 Agentic AI Intern
+- 🌱 Exploring **LangGraph, LLMs, RAG, AWS & System Design**
+- 💡 Passionate about solving real-world problems using AI.
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
----
-
-### Frontend
-
-React • React Native • Tailwind CSS • Redux • Bootstrap • Vite
-
----
-
-### Backend
-
-Node.js
-
-Express.js
-
-NestJS
-
-Spring Boot
-
-FastAPI
-
-REST APIs
-
----
-
-### AI / ML
-
-Python
-
-LangChain
-
-LangGraph
-
-Prompt Engineering
-
-LLMs
-
-RAG
-
-OpenCV
-
-MediaPipe
-
-Scikit-learn
-
-XGBoost
-
-LightGBM
-
----
-
-### Database
-
-MongoDB
-
-MySQL
-
----
-
-### DevOps & Tools
-
-Git
-
-GitHub
-
-Docker
-
-GitHub Actions
-
-Postman
-
-AWS
-
-Vercel
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 MentorPet
-
-AI-powered career platform featuring
-
-- ATS Resume Analyzer
-- AI Resume Builder
-- Job Matching
-- Dashboard Analytics
-- JWT Authentication
-- Groq LLM Integration
-
-Tech Stack
-
-React • Node • Express • MongoDB • TailwindCSS • Groq AI
-
----
-
-## 📈 EconAI
-
-Macroeconomic Forecasting Platform
-
-Features
-
-- GDP Prediction
-- Inflation Forecasting
-- Financial Risk Analysis
-- Live FRED Data
-- ML Models
-
-Tech
-
-React
-
-Django
-
-MongoDB
-
-XGBoost
-
-LightGBM
-
-Scikit-Learn
-
----
-
-## 🏋️ AI Sports Talent Platform
-
-AI-powered Fitness Assessment Platform
-
-Features
-
-- Pose Estimation
-- Exercise Analysis
-- Workout Tracking
-- Video Processing
-- Performance Dashboard
-
-Tech
-
-Python
-
-Flask
-
-OpenCV
-
-MediaPipe
-
-NumPy
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepakramaswamy2006&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakramaswamy2006&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakramaswamy2006&layout=compact&theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,fastapi,nestjs,mongodb,mysql,docker,git,github,aws,postman,vscode&perline=6"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Featured Projects
+
+### 🤖 MentorPet
+AI-powered career platform with ATS resume analysis, AI resume builder, job matching, JWT authentication and Groq LLM integration.
+
+### 📈 EconAI
+Macroeconomic forecasting platform using ML models to predict GDP, inflation and financial risk.
+
+### 🏋️ AI Sports Talent Platform
+Pose estimation, exercise analysis, workout tracking and performance dashboard using OpenCV & MediaPipe.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Salesforce Agentforce Specialist
+- 🚀 Guidewire DevTrails Phase II
+- 💼 MERN Stack Developer Intern
+- 🤖 Agentic AI Intern
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakramaswamy2006&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakramaswamy2006&layout=compact&theme=tokyonight"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakramaswamy2006&theme=tokyonight&row=1&column=7"/>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=deepakramaswamy2006&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🐍 Contribution
+## 🐍 Contribution Snake
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakramaswamy2006/deepakramaswamy2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deepakramaswamy2006/deepakramaswamy2006/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Connect With Me
 
-LinkedIn
-
-Portfolio
-
-LeetCode
-
-Email
+<p align="center">
+<a href="https://github.com/deepakramaswamy2006">GitHub</a> •
+<a href="https://www.linkedin.com/in/deepak-ramaswamy-6131ba322/">LinkedIn</a> •
+<a href="mailto:deepakramaswamy13@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "Great software isn't just built—it is thoughtfully engineered to solve real problems."
-
----
+### 💬 *"Building intelligent software that solves meaningful problems."*
 
 ⭐ If you like my work, consider starring my repositories.
+
+</div>
