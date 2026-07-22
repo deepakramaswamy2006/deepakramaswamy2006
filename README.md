@@ -26,11 +26,21 @@ I'm an engineering student at **Sri Eshwar College of Engineering**, building at
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,tailwind,nodejs,express,fastapi,python,pytorch,tensorflow,mongodb,mysql,aws,docker,git,github,vscode" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+
+### 🌐 Full Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,mongodb,mysql" />
+
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 
 </div>
 
