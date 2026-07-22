@@ -227,9 +227,11 @@ NumPy
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakramaswamy2006&theme=tokyo-night)](https://github.com/deepakramaswamy2006)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakramaswamy2006/deepakramaswamy2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
