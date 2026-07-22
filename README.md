@@ -109,22 +109,8 @@ Engineered a responsive e-commerce platform with a secure Node/Express REST API 
 
 <br/>
 
-## 📊 GitHub Dashboard
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=deepakramaswamy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=8A63D2" width="100%"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakramaswamy2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63D2" width="100%"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=deepakramaswamy2006&theme=tokyonight&hide_border=true&background=0d1117&ring=8A63D2&fire=8A63D2" width="70%"/>
-</div>
+📊 GitHub Dashboard
+<div align="center"> <img src="https://streak-stats.demolab.com?user=deepakramaswamy2006&theme=tokyonight&hide_border=true&background=0d1117&ring=8A63D2&fire=8A63D2" width="70%"/> </div> 
 
 <br/>
 
