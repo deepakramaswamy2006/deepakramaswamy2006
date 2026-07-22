@@ -129,6 +129,16 @@ Engineered a responsive e-commerce platform with a secure Node/Express REST API 
 
 <br/>
 
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/deepakramaswamy2006/deepakramaswamy2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 📬 Let's Connect
 
 <div align="center">
