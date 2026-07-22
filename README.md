@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepak%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI&ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepak%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/deepakramaswamy2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Agentic+AI+Developer;Building+AI+for+Real+World+Problems" alt="Typing SVG" />
