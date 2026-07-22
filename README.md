@@ -16,9 +16,9 @@ I'm an engineering student at **Sri Eshwar College of Engineering**, building at
 
 ## 🧭 About Me
 
-- 🔭 Building **AI-native platforms** — from career tooling to macroeconomic simulators — that turn raw data and LLMs into real decisions.
-- 🌱 Deepening my skills in **LangGraph, RAG, and multi-agent orchestration**, alongside cloud architecture on **AWS**.
-- 🤝 Open to collaborating on **agentic AI tooling, developer platforms, and applied ML products**.
+- 🤖 Building **AI-powered** and **full-stack** applications for real-world problems.
+- 🌱 Exploring **RAG, Agentic AI, Cloud (AWS),** and scalable software systems.
+- 🤝 Open to collaborating on **AI, full-stack,** and **open-source** projects.
 
 <br/>
 
