@@ -207,11 +207,11 @@ NumPy
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakramaswamy2006&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakramaswamy2006&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakramaswamy2006&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -221,7 +221,7 @@ NumPy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakramaswamy2006&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -229,7 +229,7 @@ NumPy
 
 ## 📈 Contribution Graph
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakramaswamy2006&theme=tokyo-night)](https://github.com/deepakramaswamy2006)
 
 ---
 
